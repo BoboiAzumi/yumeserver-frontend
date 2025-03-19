@@ -4,7 +4,6 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
 lerna-debug.log*
 .pnpm-debug.log*
 
@@ -154,4 +153,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
->>>>>>> 3be5162 (initial commit)
